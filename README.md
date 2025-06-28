@@ -1,2 +1,3 @@
 # socio-economic_data_analysis__on_New_Zealand
-The dataset covers socio-economic data on New Zealand, stretching back to early 1980s. The data covers a range of  topics: income and wealth distribution, poverty and deprivation levels, health measures, education outcomes, safety and  security, housing as well as employment.
+
+We have dataset covers socio-economic data on New Zealand, stretching back to early 1980s. The data covers a range of topics: income and wealth distribution, poverty and deprivation levels, health measures, education outcomes, safety and security, housing as well as employment. There are approximately ~100 columns in the dataset. I will have data wrangling, exploratory data analysis (EDA)/data visualisation as well as detailed data analysis to uncover insights from a real-world dataset. And will try to figure out valuable conclusions and provide recommendations to policy makers for the future based on the analysis results.
